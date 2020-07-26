@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">E-mail</string>
+    <string name="desc_contacto">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar datos</string>
+    <string name="nombre_header">Nombre: %1$s</string>
+    <string name="tel_header">Telefono: %1$s</string>
+    <string name="email_header">Email: %1$s</string>
+    <string name="fecha_header">Fecha: %1$s</string>
+    <string name="desc_header">Desc:</string>
+    <string name="editar">Editar</string>
+</resources>
