@@ -8,10 +8,4 @@ La tarea consta de una activity principal el usuario registra los datos de un nu
 
 La activity se desarrolla haciendo uso de Material Design e Intents.
 
-A continuación se anexan algunas capturas de pantalla.
-
-Pantalla Principal:
-
-Inserción de datos (Campos de texto con estilo Material):
-
-Pantalla de Confirmación de datos:
+Las capturas de pantalla se encuentran en el apartado de issues.
